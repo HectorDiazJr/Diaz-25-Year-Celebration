@@ -1,0 +1,41 @@
+.big-heading {
+    font-family: "sacramento";
+    font-size: 3.5rem;
+    line-height: 1.5;
+    font-weight: 900;
+    color: silver;
+}
+
+.colored-section {
+    background-color: black;
+}
+
+
+.container-fluid {
+    padding: 7% 25%;
+}
+
+.title-image {
+    width: 25%;
+    position: absolute;
+    right: 25%;
+    top: 8%;
+  }
+
+
+
+  @media (max-width: 1028px) {
+    .title-image {
+      position: static;
+      width: 60%;
+    }
+  
+    #title {
+      text-align: center;
+    }
+  
+    h2 {
+      font-size: 20px;
+    }
+  }
+  
