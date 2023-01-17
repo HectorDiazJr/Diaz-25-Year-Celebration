@@ -47,6 +47,7 @@
     .big-heading {
         /* font-family: 'Vujahday Script', cursive; */
         font-size: 30px;
+        font-weight: bold;
         /* line-height: 1.0;
         font-weight: 25;
         color: silver; */
@@ -56,6 +57,7 @@
     .small-heading {
         /* font-family: 'Raleway Dots', cursive; */
         font-size: 20px;
+        font-weight: bold;
         /* line-height: 1.5;
         font-weight: 25;
         color: silver; */
