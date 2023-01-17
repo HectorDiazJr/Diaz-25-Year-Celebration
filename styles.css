@@ -60,5 +60,9 @@
         font-weight: 25;
         color: silver; */
     }
+
+    .container-fluid {
+        padding: 7% 5%;
+    }
   }
   
