@@ -26,14 +26,16 @@
 }
 
 .title-image {
-    width: 30%;
-    position: absolute;
-    right: 20%;
+    position: static;
+    width: 100%;
+    /* position: absolute; */
+    right: 100%;
     top: 8%;
   }
 
 .attending {
     font-family: 'Vujahday Script', cursive;
+    text-align: center;
     font-size: 3.5rem;
     line-height: 1.0;
     font-weight: 25;
@@ -54,6 +56,8 @@
     margin: 6px 2px;
     cursor: pointer;
 }
+
+.respond:hover {opacity: 0.6}
 
 
 
