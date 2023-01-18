@@ -108,5 +108,9 @@
     .container-fluid {
         padding: 7% 5%;
     }
+
+    .song-request {
+        font-size: 1.2rem;
+    }
   }
   
