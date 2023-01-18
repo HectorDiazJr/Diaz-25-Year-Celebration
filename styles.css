@@ -3,7 +3,7 @@
     font-size: 5.5rem;
     line-height: 1.0;
     font-weight: 25;
-    color: darkred;
+    color: darkgrey;
     /* text-align: center; */
 }
 
@@ -12,7 +12,7 @@
     font-size: 2.5rem;
     line-height: 1.5;
     font-weight: 25;
-    color: darkred;
+    color: darkgrey;
 }
 
 .colored-section {
@@ -22,7 +22,8 @@
 
 
 .container-fluid {
-    padding: 7% 20%;
+    /* padding: 7% 20%; */
+    padding: 7% 5%;
 }
 
 .title-image {
@@ -39,14 +40,14 @@
     font-size: 3.5rem;
     line-height: 1.0;
     font-weight: 25;
-    color: darkred;
+    color: darkgrey;
     margin-top: 70px;
     margin-bottom: 20px;
 }
 
 .respond {
-    border: none;
-    color: darkred;
+    border: darkslategray;
+    color: darkgrey;
     width: 200px;
     padding: 15px 32px;
     text-align: center;
@@ -59,7 +60,14 @@
 
 .respond:hover {opacity: 0.6}
 
-
+.song-request {
+    font-family: 'Vujahday Script', cursive;
+    text-align: center;
+    font-size: 1.5rem;
+    line-height: 1.0;
+    font-weight: 25;
+    color: darkgrey;
+}
 
   @media (max-width: 1028px) {
     .title-image {
